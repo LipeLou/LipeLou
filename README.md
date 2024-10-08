@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=0E9700&center=true&multiline=true&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%2C+me+chamo+Felipe+Loureiro" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=0E9700&center=true&multiline=true&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%2C+me+chamo+Felipe+Loureiro)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LipeLou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
