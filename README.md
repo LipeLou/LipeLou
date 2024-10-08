@@ -27,3 +27,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LipeLou/LipeLou/output/snake.svg" alt="Snake animation" />
+
+###
