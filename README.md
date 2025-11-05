@@ -28,11 +28,3 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-fonseca-loureiro-7bb9ab2b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LipeLou/LipeLou/output/snake.svg" alt="Snake animation" />
-
-###
