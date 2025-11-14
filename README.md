@@ -21,6 +21,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" height="30" alt="matplotlib logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/306500/openai.svg" height="30" alt="openai logo" />
+   <img width="12" />
+  <img src="https://p1.hiclipart.com/preview/878/365/226/mobile-logo-selenium-test-automation-software-testing-computer-software-test-studio-web-application-software-framework-png-clipart.jpg" height="30" alt="selenium logo" />
 </div>
 
 ###
