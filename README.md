@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/306500/openai.svg" height="30" alt="openai logo" />
    <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/175/494/png-transparent-selenium-computer-icons-test-automation-software-testing-selenium-angle-text-logo-thumbnail.png" height="30" alt="selenium logo" />
+  <img src="https://miro.medium.com/1*vGR3gb-FoWiZfB5ZJ4oaiQ.png" height="30" alt="selenium logo" />
 </div>
 
 ###
